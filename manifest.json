@@ -1,0 +1,32 @@
+{
+  "manifest_version": "1.0",
+  "org": "hyperium",
+  "repo": "mime",
+  "versions": [
+    {
+      "commit": "ce5062d216bf757a0ed3fc70f0fe255d1c8d74ae",
+      "parsed_at": "2026-04-22T18:51:26.767339+00:00",
+      "tag": "v0.3.17",
+      "filetree": "filetree/ce5062d216bf757a0ed3fc70f0fe255d1c8d74ae.nq.gz",
+      "blobs": [
+        "blob/7d47781a0d30339ca40858a33e8682d6059ce967.nq.gz",
+        "blob/b7c64f64f6b0fa723f047bb1b207cab2c730d19c.nq.gz",
+        "blob/20022b775b369444cc1c02801843c44aeb579536.nq.gz",
+        "blob/4fffb2f89cbd8f2169ce9914bd16bd43785bb368.nq.gz",
+        "blob/3fbc3a312370f9f23e0d5e200575537e516a6d09.nq.gz",
+        "blob/16fe87b06e802f094b3fbb0894b137bca2b16ef1.nq.gz",
+        "blob/106de1a1e6a2bee8764ff8b5e01d33df6de4d4bc.nq.gz",
+        "blob/dba63140780408d103410e3cb8d67a097a623224.nq.gz",
+        "blob/da1d3c0f654a9ad29045efc643f451b93618c91a.nq.gz",
+        "blob/36b841897ef2277b4b7b20120fcd7b2a1d83a5b2.nq.gz",
+        "blob/557b7e5fc97e430e88aafc9dd42fac4f3decf50d.nq.gz",
+        "blob/c9ae86c48ee661260bbf45f356448a459826bfa5.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
